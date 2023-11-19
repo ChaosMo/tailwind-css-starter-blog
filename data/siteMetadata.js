@@ -5,7 +5,7 @@ const siteMetadata = {
   headerTitle: 'Chaos and Human Nature',
   description:
     'A blog created with Next.js and Tailwind.css.Mainly used for personal resumes and recording some personal works.',
-  language: 'en',
+  language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
