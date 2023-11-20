@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'Strive',
-  author: 'Chaosmo',
-  headerTitle: 'Chaos and Human Nature',
+  author: 'キャオスモ',
+  headerTitle: 'Chaos & Human Nature',
   description:
     'A blog created with Next.js and Tailwind.css.Mainly used for personal resumes and recording some personal works.',
   language: 'en-us',
@@ -18,6 +18,7 @@ const siteMetadata = {
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com',
+  artstation: 'https://www.artstation.com',
   locale: 'jp',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
